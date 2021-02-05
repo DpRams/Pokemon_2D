@@ -1,0 +1,319 @@
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Ming\Downloads\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Ming\Downloads\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Ming\Downloads\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Ming\Downloads\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\Ming\Downloads\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\Ming\Downloads\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\Ming\Downloads\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\Ming\Downloads\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Ming\Downloads\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Ming\Downloads\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Ming\Desktop\Pokemon1\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1129 PM1148\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1130 16.41\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 12.40\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 0147\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1201 1550\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData.mdf
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData_log.ldf
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe.config
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Form1.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.pdb
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData.mdf
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData_log.ldf
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe.config
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.pdb
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Form1.resources
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.exe
+G:\108\108-1資料庫\FinalReport\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\Pokemon 1202 0111\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1204 1643\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1208 1616\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1209 0147\Pokemon\obj\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\PokemonData.mdf
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\PokemonData_log.ldf
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\Pokemon.exe.config
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.Form1.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.pdb
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\PokemonData.mdf
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\PokemonData_log.ldf
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\Pokemon.exe.config
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\Pokemon.exe
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\bin\Debug\Pokemon.pdb
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.Form1.resources
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.Cache
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.exe
+J:\108\108-1資料庫\FinalReport\Pokemon 1210 2116\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1211 1638\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1213 2255\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\PokemonData.mdf
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\PokemonData_log.ldf
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\Pokemon.exe.config
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\bin\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.Form1.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.Form2.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1215 1626\Pokemon\obj\Debug\Pokemon.Form3.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\PokemonData.mdf
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\PokemonData_log.ldf
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\Pokemon.exe.config
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\Pokemon.pdb
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Form1.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Form2.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Form3.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.Cache
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.exe
+E:\108\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Form3.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 1636\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.Form3.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1218 2243\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\PokemonData.mdf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\PokemonData_log.ldf
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Form2.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Form3.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\User\Desktop\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.pdb
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\PokemonData.mdf
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\PokemonData_log.ldf
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\Pokemon.exe.config
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\Pokemon.exe
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\bin\Debug\Pokemon.pdb
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Form1.resources
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Form2.resources
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Form3.resources
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.exe
+D:\大學\108\108-1\108-1資料庫\FinalReport\Pokemon 1224 2336\Pokemon\obj\Debug\Pokemon.pdb
